@@ -1,4 +1,4 @@
-namespace FriendLetter.Models
+namespace MadLibs.Models
 {
   public class MadLibsVariable
   {

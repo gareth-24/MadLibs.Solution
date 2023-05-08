@@ -1,4 +1,4 @@
-using FriendLetter.Models;
+using MadLibs.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MadLibs.Controllers
